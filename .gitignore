@@ -1,0 +1,11 @@
+# Ignore the virtual environment directory
+venv/
+env/
+myenv/
+
+.vscode
+data.csv
+screenshot.jpg
+screenshot.jpg
+logs/data.json
+screenshot.jpg

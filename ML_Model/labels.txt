@@ -1,0 +1,5 @@
+0 Accident/Breakdown
+1 Road Vehicles
+2 Pedestrians
+3 Not Pedestrian or Vehicles
+4 Disabled Pedestrians
